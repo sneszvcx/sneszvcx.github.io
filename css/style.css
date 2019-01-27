@@ -1,13 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    border: 0;
+    color: white;
+    font-size: 12px;
     overflow: hidden;
 }
 
 body{
-    background: black;
+    background: #222;
 }
 
-canvas{
-    background: black;
+.debug{
+    position: absolute;
 }
