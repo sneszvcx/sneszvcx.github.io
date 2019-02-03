@@ -7,6 +7,11 @@
     overflow: hidden;
 }
 
+@font-face{
+    font-family: 'custom';
+    src: url('../life-is-ok.otf');
+}
+
 body{
     background: #222;
 }
